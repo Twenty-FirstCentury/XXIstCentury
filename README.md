@@ -4,5 +4,5 @@ XXIstCentury is a simple lightweight bot playing on Lichess.org. It relies on py
 
 You can challenge it here: https://lichess.org/@/XXIstCentury
 
-#Book
+# Book
 XXIstCentury does not use any opening books but just uses raw Stockfish 11 evaluation data.
