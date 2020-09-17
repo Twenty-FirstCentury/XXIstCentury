@@ -3,5 +3,6 @@
 XXIstCentury is a simple lightweight bot playing on Lichess.org. It relies on python-chess for move generation and play thinking. It currently plays every single variant except for correspondence. 
 
 You can challenge it here: https://lichess.org/@/XXIstCentury
+
 #Book
 XXIstCentury does not use any opening books but just uses raw Stockfish 11 evaluation data.
