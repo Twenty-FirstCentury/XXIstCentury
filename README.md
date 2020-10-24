@@ -6,3 +6,6 @@ You can challenge it here: https://lichess.org/@/XXIstCentury
 
 # Book
 XXIstCentury does not use any opening books but just uses raw Stockfish 11 evaluation data.
+
+# Updates
+10/24/2020 Reduced large move_overhead to cope with large incoming traffic. 
