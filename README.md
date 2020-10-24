@@ -8,4 +8,5 @@ You can challenge it here: https://lichess.org/@/XXIstCentury
 XXIstCentury does not use any opening books but just uses raw Stockfish 11 evaluation data.
 
 # Updates
+10/8/2020  Changed config.yml to accept bot challenges. 
 10/24/2020 Reduced large move_overhead to cope with large incoming traffic. 
