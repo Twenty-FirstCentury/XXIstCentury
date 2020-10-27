@@ -16,4 +16,4 @@ XXIstCentury does not use any opening books but just uses raw Stockfish 11 evalu
 
 |
 
-10/26/2020 Preparing config for new engine type.
+10/26/2020 Preparing config.yml for new engine type.
