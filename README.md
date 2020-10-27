@@ -15,3 +15,5 @@ XXIstCentury does not use any opening books but just uses raw Stockfish 11 evalu
 10/24/2020 Reduced large move_overhead to cope with large incoming traffic. 
 
 |
+
+10/26/2020 Preparing config for new engine type.
