@@ -21,3 +21,7 @@ XXIstCentury move generation is based off of 35k games it played.
 |
 
 10/29/2020 Reverted back to old config.yml
+
+|
+
+12/9/2020 Added a self learning method. 
