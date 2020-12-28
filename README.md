@@ -25,3 +25,8 @@ XXIstCentury move generation is based off of 35k games it played.
 |
 
 12/9/2020 Added a self learning method. 
+
+|
+
+12/28/2020 Multi Challenge Acceptance (2 Games)
+
