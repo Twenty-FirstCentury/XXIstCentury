@@ -33,3 +33,7 @@ XXIstCentury move generation is based off of 35k games it played.
 |
 
 12/28/2020 Officially integrated with nnue evaluation (S. 12)
+
+|
+
+1/11/2021 Remade and added a 40,000 game book played by XXIstCentury 
