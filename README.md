@@ -5,7 +5,7 @@ XXIstCentury is a simple lightweight bot playing on Lichess.org. It relies on py
 You can challenge it here: https://lichess.org/@/XXIstCentury
 
 # Book
-XXIstCentury move generation is based off of 35k games it played. 
+XXIstCentury move generation is based off of 40k games it played. 
 
 # Updates
 10/8/2020  Changed config.yml to accept bot challenges. 
